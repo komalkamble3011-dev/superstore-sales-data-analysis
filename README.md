@@ -4,10 +4,10 @@
 This projects analyzes superstore sales trends using Python, Pandas, Matplotlib, Seaborn and Power Bi 
 
 ## 🛠️ Tools & Technologies
-- **Python**:Pandas, Matplotlib, Seaborn
-- **Excel**:Data is in CSV format
-- **Jupyter Notebook**:For data cleaning and visualize
-- **Power BI**:For dashboard visualization
+- **Python**: Pandas, Matplotlib, Seaborn
+- **Excel**: Data is in CSV format
+- **Jupyter Notebook**: For data cleaning and visualize
+- **Power BI**: For dashboard visualization
 
 ## 📂 Project Structure
 - `superstoredataset.csv` → Dataset files
