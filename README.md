@@ -1,4 +1,4 @@
-# superstore-sales-data-analysis
+# Superstore-sales-data-analysis
 
 ## 📌 Description
 This projects analyzes superstore sales trends using Python, Pandas, Matplotlib, Seaborn and Power Bi 
