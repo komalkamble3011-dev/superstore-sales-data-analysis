@@ -10,9 +10,9 @@ This projects analyzes superstore sales trends using Python, Pandas, Matplotlib,
 - **Power BI**:For dashboard visualization
 
 ## 📂 Project Structure
-- `superstoredataset` → Dataset files
-- `Superstore_superclean` → Dataset file after cleaning
-- `Project` → Jupyter notebook
+- `superstoredataset.csv` → Dataset files
+- `Superstore_superclean.csv` → Dataset file after cleaning
+- `Project.ipynb` → Jupyter notebook
 - `superstore sales dashboard.pbix` → Power BI dashboard
 
 ## 🚀 How to Run
