@@ -17,7 +17,7 @@ This projects analyzes superstore sales trends using Python, Pandas, Matplotlib,
 
 ## 🚀 How to Run
 1. Clone the repository  
-2. Install required libraries (`pip install -r requirements.txt`)  
+2. Install required libraries (`pip install libraries_name`)  
 3. Run the notebooks in Jupyter  
 
 ## 📊 Results
